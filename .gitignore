@@ -1,3 +1,5 @@
 .vscode
 *.exe
 TwoSum/
+PalindromeNumber/
+ValidParentheses/
